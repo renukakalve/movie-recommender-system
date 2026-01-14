@@ -1,0 +1,1 @@
+This project implements a content-based movie recommendation system using natural language processing and cosine similarity. It recommends movies similar to a given movie based on plot, genre, cast, keywords, and director.
